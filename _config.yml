@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "China (mainland)"
-title                    : "HuangMu 黄沐"
+title                    : "Mu Huang 黄沐"
 title_separator          : "-"
-name                     : &name "Huang Mu"
-description              : &description "PhD of FuDan University"
+name                     : &name "Mu Huang"
+description              : &description "PhD at FDU"
 url                      : https://Wrioste.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wrioste/Wrioste.github.io"
@@ -21,12 +21,12 @@ repository               : "Wrioste/Wrioste.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Huangmu_profile.png"
-  name             : "Huang Mu"
+  avatar           : "shark.jpg"
+  name             : "Mu Huang"
   pronouns         : # example: "she/her"  
-  bio              : ":) Hi"
+  bio              : "PhD student at FDU"
   location         : "China"
-  employer         : "ShangHai AI Laboratory"
+  employer         : "ShangHai AI Lab"
   uri              : # URL
   email            : "huangmu@pjlab.org.cn" 
 
@@ -48,7 +48,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -233,14 +232,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -249,7 +248,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -258,7 +257,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -267,7 +266,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 
