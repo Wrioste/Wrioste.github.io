@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China (mainland)"
+locale                   : "China"
 title                    : "Mu Huang 黄沐"
 title_separator          : "-"
 name                     : &name "Mu Huang"
