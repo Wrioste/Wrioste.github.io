@@ -11,11 +11,24 @@ Mu Huang is a PhD student at the School of Computer Science Fudan University ([F
 
 Publications
 ======
-**Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition** \\
+<img src='./images/gausim.gif' width="240" hspace="10" align="left"/>
+**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**  
+[Yidi Shao](https://ftbabi.github.io/), **Mu Huang**, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)  
+arXiv preprint, 2024             
+[[Paper](https://arxiv.org/abs/2412.17804)] [[Project Page](https://www.mmlab-ntu.com/project/gausim/index.html)] [[Code (Coming Soon)]()]
+
+
+<img src='./images/PLSE.jpg' width="240" hspace="10" align="left"/>
+**Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition**  
+Chenxu Wang, [Ping Jian](https://scholar.google.com/citations?user=fpyIDJUAAAAJ), **Mu Huang** 
+EMNLP 2023 main conference paper           
+[[Paper](https://aclanthology.org/2023.emnlp-main.45/)] [[Github](https://github.com/lalalamdbf/PLSE_IDRR)]
+
+<!-- **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition** \\
 _Chenxu Wang, [Ping Jian](https://scholar.google.com/citations?user=fpyIDJUAAAAJ),_ **Mu Huang** \\
 EMNLP 2023 main conference paper
 ![Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition](/images/PLSE.jpg)
-[Paper](https://aclanthology.org/2023.emnlp-main.45/), [Github](https://github.com/lalalamdbf/PLSE_IDRR)
+[Paper](https://aclanthology.org/2023.emnlp-main.45/), [Github](https://github.com/lalalamdbf/PLSE_IDRR) -->
 
 Miscellanea
 ======
