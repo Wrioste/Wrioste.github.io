@@ -18,10 +18,10 @@ arXiv preprint, 2024
 [[Paper](https://arxiv.org/abs/2412.17804)] [[Project Page](https://www.mmlab-ntu.com/project/gausim/index.html)] [[Code (Coming Soon)]()]
 
 
-<img src='./images/PLSE.jpg' width="240" hspace="10" align="left"/>
+<img src='./images/PLSE-001.jpeg' width="240" hspace="10" align="left"/>
 **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition**  
-Chenxu Wang, [Ping Jian](https://scholar.google.com/citations?user=fpyIDJUAAAAJ), **Mu Huang** 
-EMNLP 2023 main conference paper           
+Chenxu Wang, [Ping Jian](https://scholar.google.com/citations?user=fpyIDJUAAAAJ), **Mu Huang**  
+EMNLP, 2023       
 [[Paper](https://aclanthology.org/2023.emnlp-main.45/)] [[Github](https://github.com/lalalamdbf/PLSE_IDRR)]
 
 <!-- **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition** \\
