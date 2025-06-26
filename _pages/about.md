@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Mu Huang is a PhD student at the School of Computer Science Fudan University ([FDU](https://www.fudan.edu.cn/)). He is a member of Intelligent Digital Creation Group ([IDC Group](https://idc-sh.github.io/#/)), affiliated with the [Shanghai AI Laboratory](https://www.shlab.org.cn/), co-supoervised by Doctor [Bo Dai](https://daibo.info/) and [Yidi Shao](https://ftbabi.github.io/). He received his bachelor degree from Beijing Institute of Technology [BIT](https://www.bit.edu.cn/). His research interests include 3D physics simulation, AI for Science and generative models.
+I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology [BIT](https://www.bit.edu.cn/). My research interests include physics simulation, real-to-sim, embodied AI.
 
 Publications
 ======
 <img src='./images/gausim.gif' width="240" hspace="10" align="left"/>
 **GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**  
 [Yidi Shao](https://ftbabi.github.io/), **Mu Huang**, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)  
-arXiv preprint, 2024             
+ICCV, 2025             
 [[Paper](https://arxiv.org/abs/2412.17804)] [[Project Page](https://www.mmlab-ntu.com/project/gausim/index.html)] [[Code (Coming Soon)]()]
 
 
 <img src='./images/PLSE-001.jpeg' width="240" hspace="10" align="left"/>
 **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition**  
 Chenxu Wang, [Ping Jian](https://scholar.google.com/citations?user=fpyIDJUAAAAJ), **Mu Huang**  
-EMNLP, 2023       
+EMNLP, 2023, **oral**   
 [[Paper](https://aclanthology.org/2023.emnlp-main.45/)] [[Github](https://github.com/lalalamdbf/PLSE_IDRR)]
 
 <!-- **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition** \\
