@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology [BIT](https://www.bit.edu.cn/). My research interests include physics simulation, real-to-sim, embodied AI.
+I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)). My research interests include physics simulation, real-to-sim, embodied AI.
 
 Publications
 ======
-<img src='./images/gausim.gif' width="240" hspace="10" align="left"/>
+<img src='./images/teaser_page/rgns_teaser_page.png' width="240" hspace="10" align="left"/>
+**Reversible GNS for Dissipative Fluids with Consistent Bidirectional Dynamics**   
+<u>Mu Huang</u>, *Linning Xu*, *Mingyue Dai*, *Yidi Shao*, *Bo Dai*  
+arXiv, 2025.09             
+[Paper]
+
+<img src='./images/teaser_page/gausim.gif' width="240" hspace="10" align="left"/>
 **GausSim: Foreseeing Reality by Gaussian Simulator for Elastic Objects**   
 *Yidi Shao*, <u>Mu Huang</u>, *Chen Change Loy*, *Bo Dai*  
 ICCV, 2025             
@@ -19,7 +25,7 @@ ICCV, 2025
 
 
 
-<img src='./images/PLSE-001.jpeg' width="240" hspace="10" align="left"/>
+<img src='./images/teaser_page/PLSE-001.jpeg' width="240" hspace="10" align="left"/>
 **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition**  
 *Chenxu Wang*, *Ping Jian*, <u>Mu Huang</u>  
 EMNLP, 2023, **oral**   
