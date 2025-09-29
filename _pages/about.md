@@ -15,7 +15,7 @@ Publications
 **Reversible GNS for Dissipative Fluids with Consistent Bidirectional Dynamics**   
 <u>Mu Huang</u>, *Linning Xu*, *Mingyue Dai*, *Yidi Shao*, *Bo Dai*  
 arXiv, 2025.09             
-[Paper]
+[Paper](https://arxiv.org/abs/2509.22207)
 
 <img src='./images/teaser_page/gausim.gif' width="240" hspace="10" align="left"/>
 **GausSim: Foreseeing Reality by Gaussian Simulator for Elastic Objects**   
