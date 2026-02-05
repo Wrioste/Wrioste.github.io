@@ -24,7 +24,7 @@ Publications
 [Linning Xu](https://eveneveno.github.io/lnxu/),
 [Yunsong Zhou](https://zhouyunsong.github.io/),
 [Mulin Yu](https://mulinyu.github.io/),
-[Bo Dai](https://daibo.info/),
+[Bo Dai<sup>†</sup>](https://daibo.info/),
 [Jiangmiao Pang](https://oceanpang.github.io/)
 
 [[**Paper**]](https://arxiv.org/abs/2602.02402)&nbsp;
@@ -44,7 +44,7 @@ Publications
 [Linning Xu](https://eveneveno.github.io/lnxu/),
 [Minyue Dai](https://jixiii.github.io/),
 [Yidi Shao](https://ftbabi.github.io/),
-[Bo Dai](https://daibo.info/)
+[Bo Dai<sup>†</sup>](https://daibo.info/)
 
 [[**Paper**]](https://arxiv.org/abs/2509.22207)
 
@@ -61,7 +61,7 @@ Publications
 [Yidi Shao](https://ftbabi.github.io/),
 **Mu Huang**,
 [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html),
-[Bo Dai](https://daibo.info/)
+[Bo Dai<sup>†</sup>](https://daibo.info/)
 
 [[**Paper**]](https://arxiv.org/pdf/2412.17804)&nbsp;
 [[**Project Page**]](https://www.mmlab-ntu.com/project/gausim/index.html)&nbsp;
@@ -78,7 +78,7 @@ Publications
 **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition**
 
 [Chenxu Wang](),
-[Ping Jian](https://pure.bit.edu.cn/zh/persons/ping-jian/),
+[Ping Jian<sup>†</sup>](https://pure.bit.edu.cn/zh/persons/ping-jian/),
 **Mu Huang**
 
 [[**Paper**]](https://aclanthology.org/2023.emnlp-main.45/)&nbsp;
