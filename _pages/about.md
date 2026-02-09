@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mu Huang 黄沐"
+title: "Mu Huang Home Page"
 author_profile: true
 redirect_from: 
   - /about/
