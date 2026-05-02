@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)). My research interests include physics simulation, real-to-sim, world model and embodied AI.
+I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)). My research interests include physical grounded world model and embodied AI.
 
 Publications
 ======
 
 <!-- SoMA -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2026.02</div><img src='./images/teaser_videos/SoMA_page.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2026</div><img src='./images/teaser_videos/SoMA_page.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation**
 
@@ -36,7 +36,7 @@ Publications
 
 <!-- Reversible GNS -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2025.09</div><img src='./images/teaser_page/rgns_teaser_page.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2025</div><img src='./images/teaser_page/rgns_teaser_page.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Reversible GNS for Dissipative Fluids with Consistent Bidirectional Dynamics**
 
