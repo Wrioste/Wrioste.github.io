@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)). My research interests include physically grounded world model and embodied AI.
+I am a Ph.D. student at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world model and embodied AI.
 
 Publications
 ======
@@ -101,9 +101,9 @@ Miscellanea
 + **National College Physics Competition in Some Regions of China (NCPC)**, First Prize in Beijing in 2020.
 
 **Honor**
-+ **Outstanding Undergraduate Thesis** at BIT in 2024.
-+ **Outstanding Undergraduate** at BIT in 2024.
++ **Outstanding Undergraduate Thesis** at Beijing Institute of Technology in 2024.
++ **Outstanding Undergraduate** at Beijing Institute of Technology in 2024.
 
 **Scholarship**
-+ **Excellence Student Scholarship**, First Prize in BIT (Multiple).
-+ **Ethnic Student Learning Award**, First Prize in BIT (Multiple).
++ **Excellence Student Scholarship**, First Prize in Beijing Institute of Technology (Multiple).
++ **Ethnic Student Learning Award**, First Prize in Beijing Institute of Technology (Multiple).
