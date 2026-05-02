@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)). My research interests include physical grounded world model and embodied AI.
+I am a Ph.D. student at the School of Computer Science, Fudan University ([FDU](https://www.fudan.edu.cn/)) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)). My research interests include physically grounded world model and embodied AI.
 
 Publications
 ======
