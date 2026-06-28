@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/) and the [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Bo Dai](https://daibo.info/). I received my bachelor's degree from the [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world model and embodied AI.
+I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from the [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world models and embodied AI.
+
+I am currently an intern in Lingbot-VA at [Robbyant](https://www.robbyant.com/) (2026-present), working with [Lin Li](https://lilin-hitcrt.github.io/) and [Yinghao Xu](https://justimyhxu.github.io/). Previously, I worked in the Embodied AI Department at [Shanghai AI Laboratory](https://www.shlab.org.cn/) (2024-2025) with [Linning Xu](https://eveneveno.github.io/lnxu/) and [Jiangmiao Pang](https://oceanpang.github.io/).
 
 Publications
 ======
@@ -29,6 +31,7 @@ Publications
 
 [[**Paper**]](https://arxiv.org/abs/2602.02402)&nbsp;
 [[**Project Page**]](https://city-super.github.io/SoMA/)
+[[**Code**]](https://github.com/Wrioste/SoMA)
 
 </div>
 </div>
@@ -97,8 +100,8 @@ EMNLP 2023 main conference paper
 Miscellanea
 ======
 **Award**
-+ **Chinese Physics Olympiad (CPHO)**, First Prize in Hunan Province in 2018.
-+ **National College Physics Competition in Some Regions of China (NCPC)**, First Prize in Beijing in 2020.
++ **Chinese Physics Olympiad**, First Prize in Hunan Province in 2018.
++ **National College Physics Competition in Some Regions of China**, First Prize in Beijing in 2020.
 
 **Honor**
 + **Outstanding Undergraduate Thesis** at Beijing Institute of Technology in 2024.
