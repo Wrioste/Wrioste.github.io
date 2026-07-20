@@ -11,8 +11,18 @@ I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan
 
 I am currently an intern in Lingbot-VA at [Robbyant](https://www.robbyant.com/) (2026-present), working with [Lin Li](https://lilin-hitcrt.github.io/) and [Yinghao Xu](https://justimyhxu.github.io/). Previously, I worked in the Embodied AI Department at [Shanghai AI Laboratory](https://www.shlab.org.cn/) (2024-2025) with [Linning Xu](https://eveneveno.github.io/lnxu/) and [Jiangmiao Pang](https://oceanpang.github.io/).
 
-Publications
-======
+<h1 class="home-section-title">🔥 News</h1>
+
+<div class="home-news" markdown="1">
+
++ *2026.02:* 🎉 **SoMA** was accepted to ICML 2026. We build a physically grounded world simulator for robotic soft-body manipulation.
++ *2025.09:* 🎉 **Reversible GNS** was released on arXiv. We study reversible graph simulators for consistent bidirectional modeling of dissipative fluids.
++ *2025.06:* 🎉 **GausSim** was accepted to ICCV 2025. We explore Gaussian-based simulation for forecasting elastic object dynamics.
++ *2023.10:* 🎉 **PLSE** was accepted to EMNLP 2023 as an oral presentation. We enhance discourse relation recognition with prompt-based logical semantics.
+
+</div>
+
+<h1 class="home-section-title">📝 Publications</h1>
 
 <!-- SoMA -->
 
@@ -33,6 +43,10 @@ Publications
 [[**Project Page**]](https://city-super.github.io/SoMA/)
 [[**Code**]](https://github.com/Wrioste/SoMA)
 
+<div class="paper-tldr" markdown="1">
++ SoMA is a Gaussian-splat world simulator for real-world robotic soft-body manipulation, enabling action-conditioned, stable long-horizon simulation with multi-view-consistent rendering.
+</div>
+
 </div>
 </div>
 <!-- SoMA -->
@@ -50,6 +64,11 @@ Publications
 [Bo Dai<sup>†</sup>](https://daibo.info/)
 
 [[**Paper**]](https://arxiv.org/abs/2509.22207)
+
+<div class="paper-tldr" markdown="1">
++ We Built a reversible (bidirectional) graph network simulator that unifies forward dynamics prediction and
+fast inverse inference within a unified framework for dissipative fluid systems.
+</div>
 
 </div>
 </div>
@@ -70,13 +89,17 @@ Publications
 [[**Project Page**]](https://www.mmlab-ntu.com/project/gausim/index.html)&nbsp;
 [[**Code**]](https://github.com/ftbabi/GausSim_ICCV2025)
 
+<div class="paper-tldr" markdown="1">
++ GausSim models real-world elastic-object dynamics with Gaussian Splats and continuum-mechanics constraints for physically plausible forecasting.
+</div>
+
 </div>
 </div>
 <!-- GausSim -->
 
 <!-- PLSE -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP, 2023, Oral</div><img src='./images/teaser_page/PLSE-001.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--last'><div class='paper-box-image'><div><div class="badge">EMNLP, 2023, Oral</div><img src='./images/teaser_page/PLSE-001.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition**
 
@@ -86,6 +109,10 @@ Publications
 
 [[**Paper**]](https://aclanthology.org/2023.emnlp-main.45/)&nbsp;
 [[**Github**]](https://github.com/lalalamdbf/PLSE_IDRR)
+
+<div class="paper-tldr" markdown="1">
++ PLSE injects discourse-relation knowledge into language models through prompt-based connective prediction and logical semantics enhancement.
+</div>
 
 </div>
 </div>
@@ -97,16 +124,59 @@ EMNLP 2023 main conference paper
 ![Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition](/images/PLSE.jpg)
 [Paper](https://aclanthology.org/2023.emnlp-main.45/), [Github](https://github.com/lalalamdbf/PLSE_IDRR) -->
 
-Miscellanea
-======
-**Award**
+<h1 class="home-section-title">🏅 Honors and Awards</h1>
+
+<div class="home-compact-list" markdown="1">
+
 + **Chinese Physics Olympiad**, First Prize in Hunan Province in 2018.
 + **National College Physics Competition in Some Regions of China**, First Prize in Beijing in 2020.
-
-**Honor**
 + **Outstanding Undergraduate Thesis** at Beijing Institute of Technology in 2024.
 + **Outstanding Undergraduate** at Beijing Institute of Technology in 2024.
-
-**Scholarship**
 + **Excellence Student Scholarship**, First Prize in Beijing Institute of Technology (Multiple).
 + **Ethnic Student Learning Award**, First Prize in Beijing Institute of Technology (Multiple).
+
+</div>
+
+<h1 class="home-section-title">💬 Community Services</h1>
+
+<div class="home-compact-list" markdown="1">
+
++ **Reviewer:** ICML 2026, AAAI 2027.
+
+</div>
+
+<h1 class="home-section-title">💻 Internships</h1>
+
+<div class="internship-timeline">
+  <div class="internship-card">
+    <div class="internship-logo internship-logo--robbyant">
+      <img src="./images/robbyant_blue.jpeg" alt="Robbyant logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-heading">
+        <a href="https://www.robbyant.com/">Robbyant</a>
+        <span>Lingbot-VA</span>
+      </div>
+      <div class="internship-meta">
+        <span>2026 - Present</span>
+        <span>Working with <a href="https://lilin-hitcrt.github.io/">Lin Li</a> and <a href="https://justimyhxu.github.io/">Yinghao Xu</a></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="internship-card">
+    <div class="internship-logo internship-logo--shlab">
+      <img src="./images/shlab.jpeg" alt="Shanghai AI Laboratory logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-heading">
+        <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>
+        <span>Embodied AI Department</span>
+      </div>
+      <div class="internship-meta">
+        <span>2024 - 2025</span>
+        <span>Worked with <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a> and <a href="https://oceanpang.github.io/">Jiangmiao Pang</a></span>
+      </div>
+    </div>
+  </div>
+</div>
