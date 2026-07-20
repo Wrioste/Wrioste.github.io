@@ -15,7 +15,7 @@ I am currently an intern in Lingbot-VA at [Robbyant](https://www.robbyant.com/) 
 
 <div class="home-news" markdown="1">
 
-+ *2026.02:* 🎉 **SoMA** was accepted to ICML 2026. We build a physically grounded world simulator for robotic soft-body manipulation.
++ *2026.05:* 🎉 **SoMA** was accepted to ICML 2026. We build a physically grounded world simulator for robotic soft-body manipulation.
 + *2025.09:* 🎉 **Reversible GNS** was released on arXiv. We study reversible graph simulators for consistent bidirectional modeling of dissipative fluids.
 + *2025.06:* 🎉 **GausSim** was accepted to ICCV 2025. We explore Gaussian-based simulation for forecasting elastic object dynamics.
 + *2023.10:* 🎉 **PLSE** was accepted to EMNLP 2023 as an oral presentation. We enhance discourse relation recognition with prompt-based logical semantics.
@@ -66,7 +66,7 @@ I am currently an intern in Lingbot-VA at [Robbyant](https://www.robbyant.com/) 
 [[**Paper**]](https://arxiv.org/abs/2509.22207)
 
 <div class="paper-tldr" markdown="1">
-+ We Built a reversible (bidirectional) graph network simulator that unifies forward dynamics prediction and
++ We built a reversible (bidirectional) graph network simulator that unifies forward dynamics prediction and
 fast inverse inference within a unified framework for dissipative fluid systems.
 </div>
 
