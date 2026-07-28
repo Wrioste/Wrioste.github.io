@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from the [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world models and embodied AI.
-
-I am currently an intern in Lingbot-VA at [Robbyant](https://www.robbyant.com/) (2026-present), working with [Lin Li](https://lilin-hitcrt.github.io/) and [Yinghao Xu](https://justimyhxu.github.io/). Previously, I worked in the Embodied AI Department at [Shanghai AI Laboratory](https://www.shlab.org.cn/) (2024-2025) with [Linning Xu](https://eveneveno.github.io/lnxu/) and [Jiangmiao Pang](https://oceanpang.github.io/).
+I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world models and embodied AI.
 
 <h1 class="home-section-title">🔥 News</h1>
 
