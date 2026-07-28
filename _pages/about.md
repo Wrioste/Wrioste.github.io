@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<div id="about-me" class="home-anchor"></div>
+
 I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world models and embodied AI.
 
-<h1 class="home-section-title">🔥 News</h1>
+<h1 id="news" class="home-section-title">🔥 News</h1>
 
 <div class="home-news" markdown="1">
 
@@ -20,7 +22,7 @@ I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan
 
 </div>
 
-<h1 class="home-section-title">📝 Publications</h1>
+<h1 id="publications" class="home-section-title">📝 Publications</h1>
 
 <!-- SoMA -->
 
@@ -122,7 +124,7 @@ EMNLP 2023 main conference paper
 ![Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition](/images/PLSE.jpg)
 [Paper](https://aclanthology.org/2023.emnlp-main.45/), [Github](https://github.com/lalalamdbf/PLSE_IDRR) -->
 
-<h1 class="home-section-title">🏅 Honors and Awards</h1>
+<h1 id="honors-and-awards" class="home-section-title">🏅 Honors and Awards</h1>
 
 <div class="home-compact-list" markdown="1">
 
@@ -135,7 +137,7 @@ EMNLP 2023 main conference paper
 
 </div>
 
-<h1 class="home-section-title">💬 Community Services</h1>
+<h1 id="community-services" class="home-section-title">💬 Community Services</h1>
 
 <div class="home-compact-list" markdown="1">
 
@@ -143,7 +145,7 @@ EMNLP 2023 main conference paper
 
 </div>
 
-<h1 class="home-section-title">💻 Internships</h1>
+<h1 id="internships" class="home-section-title">💻 Internships</h1>
 
 <div class="internship-timeline">
   <div class="internship-card">

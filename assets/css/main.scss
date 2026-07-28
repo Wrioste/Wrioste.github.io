@@ -39,7 +39,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__footer {
+    display: none;
+}
+
+body {
+    margin-bottom: 0 !important;
+}
+
+.home-anchor {
+    scroll-margin-top: calc(#{$masthead-height} + 1rem);
+}
+
 .page__content .home-section-title {
+    scroll-margin-top: calc(#{$masthead-height} + 1rem);
     margin-bottom: 0.7em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -59,12 +72,24 @@
     }
 }
 
-.sidebar .author__urls .sidebar-icon {
+.sidebar .author__urls li {
+    display: block;
+}
+
+.sidebar .author__urls li a {
+    display: inline-flex;
+    align-items: center;
+}
+
+.sidebar .author__urls svg.sidebar-icon {
     display: inline-block;
-    width: 1.25em;
-    height: 1.25em;
+    flex: 0 0 1.3rem;
+    width: 1.3rem !important;
+    height: 1.3rem !important;
+    margin-right: 0.5rem;
+    padding-right: 0 !important;
     fill: currentColor;
-    vertical-align: -0.18em;
+    vertical-align: middle;
 }
 
 .sidebar .author__name {
@@ -83,7 +108,7 @@
 }
 
 .sidebar .author__urls li {
-    margin-bottom: 0.75em;
+    margin-bottom: 0.5em;
 }
 
 .paper-box {
