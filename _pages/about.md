@@ -9,7 +9,9 @@ redirect_from:
 
 <div id="about-me" class="home-anchor"></div>
 
-I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/). My research interests include physically grounded world models and embodied AI.
+I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/).
+
+My research spans **physics-based world modeling** and **embodied intelligence**. I build interactive environments through real-to-sim reconstruction and physics simulation, and explore WAMs, VLAs, and agent harness for robots.
 
 <h1 id="news" class="home-section-title">🔥 News</h1>
 
@@ -159,7 +161,7 @@ EMNLP 2023 main conference paper
       </div>
       <div class="internship-meta">
         <span>2026 - Present</span>
-        <span>Working with <a href="https://lilin-hitcrt.github.io/">Lin Li</a> and <a href="https://justimyhxu.github.io/">Yinghao Xu</a></span>
+        <span>Working with <a href="https://scholar.google.com/citations?user=swN2J1QAAAAJ&amp;hl=en&amp;oi=ao">Yubin Hu</a> and <a href="https://justimyhxu.github.io/">Yinghao Xu</a></span>
       </div>
     </div>
   </div>
