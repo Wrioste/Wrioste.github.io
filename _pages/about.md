@@ -11,12 +11,13 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/).
 
-My research spans **physics-based world modeling** and **embodied intelligence**. I build interactive environments through real-to-sim reconstruction and physics simulation, and explore WAMs, VLAs, and agent harness for robots.
+My research spans **physics-based world modeling** and **embodied intelligence**. I build interactive world through real-to-sim reconstruction and physics simulation, and explore WAM, VLA, and agent harness for robots.
 
 <h1 id="news" class="home-section-title">🔥 News</h1>
 
 <div class="home-news" markdown="1">
 
++ *2026.09:* 🎉 We released **InternW0-Δ**, a world-action model combining causal imprint with 4D-aware representation.
 + *2026.05:* 🎉 **SoMA** was accepted to ICML 2026. We build a physically grounded world simulator for robotic soft-body manipulation.
 + *2025.09:* 🎉 **Reversible GNS** was released on arXiv. We study reversible graph simulators for consistent bidirectional modeling of dissipative fluids.
 + *2025.06:* 🎉 **GausSim** was accepted to ICCV 2025. We explore Gaussian-based simulation for forecasting elastic object dynamics.
@@ -24,7 +25,35 @@ My research spans **physics-based world modeling** and **embodied intelligence**
 
 </div>
 
-<h1 id="publications" class="home-section-title">📝 Publications</h1>
+<h1 id="technical-reports" class="home-section-title home-section-title--works">🔖 Technical Reports</h1>
+
+<div class="paper-box paper-box--last technical-report">
+  <div class="paper-box-image">
+    <a href="https://internrobotics.github.io/InternW0-Delta/" aria-label="InternW0-Delta project page">
+      <img src="./images/teaser_page/internw0_delta_teaser.png" alt="InternW0-Delta overview: multi-source data, world-action modeling, benchmark evaluations, and real-world manipulation" width="2400" height="1200" loading="lazy">
+    </a>
+  </div>
+  <div class="paper-box-text" markdown="1">
+<p class="report-title"><strong>InternW0-Δ: An Embodied World Model Bridging Predictive Dynamics and Actions</strong></p>
+
+<p class="report-team">InternRobotics</p>
+
+\[[Blog](https://internrobotics.github.io/InternW0-Delta/)\]&nbsp;
+\[[Paper](https://arxiv.org/abs/2609.31394)\]&nbsp;
+\[[Code](https://github.com/InternRobotics/InternW0-Delta)\]&nbsp;
+\[[Hugging Face](https://huggingface.co/collections/InternRobotics/internw0)\]
+{: .paper-links}
+
+
+<div class="paper-tldr" markdown="1">
++ A world-action model that jointly learns visual dynamics and robot actions, combining Causal Imprint with 4D-aware representation distillation for manipulation with grippers and dexterous hands.
+</div>
+
+
+  </div>
+</div>
+
+<h1 id="publications" class="home-section-title home-section-title--works">📝 Research Papers</h1>
 
 <!-- SoMA -->
 
@@ -41,9 +70,10 @@ My research spans **physics-based world modeling** and **embodied intelligence**
 [Bo Dai<sup>†</sup>](https://daibo.info/),
 [Jiangmiao Pang](https://oceanpang.github.io/)
 
-[[**Paper**]](https://arxiv.org/abs/2602.02402)&nbsp;
-[[**Project Page**]](https://city-super.github.io/SoMA/)
-[[**Code**]](https://github.com/Wrioste/SoMA)
+\[[Paper](https://arxiv.org/abs/2602.02402)\]&nbsp;
+\[[Project Page](https://city-super.github.io/SoMA/)\]
+\[[Code](https://github.com/Wrioste/SoMA)\]
+{: .paper-links}
 
 <div class="paper-tldr" markdown="1">
 + SoMA is a Gaussian-splat world simulator for real-world robotic soft-body manipulation, enabling action-conditioned, stable long-horizon simulation with multi-view-consistent rendering.
@@ -65,7 +95,8 @@ My research spans **physics-based world modeling** and **embodied intelligence**
 [Yidi Shao](https://ftbabi.github.io/),
 [Bo Dai<sup>†</sup>](https://daibo.info/)
 
-[[**Paper**]](https://arxiv.org/abs/2509.22207)
+\[[Paper](https://arxiv.org/abs/2509.22207)\]
+{: .paper-links}
 
 <div class="paper-tldr" markdown="1">
 + We built a reversible (bidirectional) graph network simulator that unifies forward dynamics prediction and
@@ -87,9 +118,10 @@ fast inverse inference within a unified framework for dissipative fluid systems.
 [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html),
 [Bo Dai<sup>†</sup>](https://daibo.info/)
 
-[[**Paper**]](https://arxiv.org/pdf/2412.17804)&nbsp;
-[[**Project Page**]](https://www.mmlab-ntu.com/project/gausim/index.html)&nbsp;
-[[**Code**]](https://github.com/ftbabi/GausSim_ICCV2025)
+\[[Paper](https://arxiv.org/pdf/2412.17804)\]&nbsp;
+\[[Project Page](https://www.mmlab-ntu.com/project/gausim/index.html)\]&nbsp;
+\[[Code](https://github.com/ftbabi/GausSim_ICCV2025)\]
+{: .paper-links}
 
 <div class="paper-tldr" markdown="1">
 + GausSim models real-world elastic-object dynamics with Gaussian Splats and continuum-mechanics constraints for physically plausible forecasting.
@@ -109,8 +141,9 @@ fast inverse inference within a unified framework for dissipative fluid systems.
 [Ping Jian<sup>†</sup>](https://pure.bit.edu.cn/zh/persons/ping-jian/),
 **Mu Huang**
 
-[[**Paper**]](https://aclanthology.org/2023.emnlp-main.45/)&nbsp;
-[[**Github**]](https://github.com/lalalamdbf/PLSE_IDRR)
+\[[Paper](https://aclanthology.org/2023.emnlp-main.45/)\]&nbsp;
+\[[Github](https://github.com/lalalamdbf/PLSE_IDRR)\]
+{: .paper-links}
 
 <div class="paper-tldr" markdown="1">
 + PLSE injects discourse-relation knowledge into language models through prompt-based connective prediction and logical semantics enhancement.

@@ -152,6 +152,8 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .codex-tmp
+  - .codex_tmp
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG

@@ -5,7 +5,10 @@ main:
   - title: "News"
     url: /#news
 
-  - title: "Publications"
+  - title: "Technical Reports"
+    url: /#technical-reports
+
+  - title: "Research Papers"
     url: /#publications
 
   - title: "Honors and Awards"

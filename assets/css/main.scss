@@ -51,11 +51,23 @@ body {
     scroll-margin-top: calc(#{$masthead-height} + 1rem);
 }
 
+.page__content #about-me + p {
+    margin-bottom: $indent-var / 2;
+}
+
 .page__content .home-section-title {
     scroll-margin-top: calc(#{$masthead-height} + 1rem);
     margin-bottom: 0.7em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+}
+
+.page__content .home-section-title--works {
+    margin-bottom: 0.7em * 2 / 3;
+
+    + .paper-box {
+        padding-top: 2em * 2 / 3;
+    }
 }
 
 .page__content .home-news,
@@ -172,6 +184,18 @@ body {
                 text-decoration: underline;
             }
         }
+
+        .paper-links {
+            color: $link-color;
+
+            a {
+                font-weight: 400;
+                text-decoration: underline solid currentColor;
+                text-decoration-thickness: 0.7px;
+                text-decoration-skip-ink: none;
+                text-underline-offset: 3px;
+            }
+        }
     }
     
     @include breakpoint($medium) {
@@ -196,6 +220,36 @@ body {
 
 .paper-box--last {
     border-bottom: 0;
+}
+
+.technical-report {
+    .paper-box-image > a {
+        display: block;
+        width: 100%;
+    }
+
+    .report-title,
+    .report-team {
+        font-size: 1.05em;
+    }
+
+    .report-team {
+        color: #23364d;
+        font-weight: 400;
+    }
+
+    .paper-box-image img {
+        display: block;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 2 / 1;
+        object-fit: contain;
+    }
+
+    .paper-box-text {
+        min-width: 0;
+        overflow-wrap: break-word;
+    }
 }
 
 .paper-tldr {
