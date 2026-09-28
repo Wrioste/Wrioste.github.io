@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at [Fudan University](https://www.fudan.edu.cn/), advised by [Bo Dai](https://daibo.info/). I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/).
 
-My research spans **physics-based world modeling** and **embodied intelligence**. I build interactive world through real-to-sim reconstruction and physics simulation, and explore WAM, VLA, and agent harness for robots.
+My research spans **physics-based world modeling** and **embodied intelligence**. I build world models through real-to-sim reconstruction and physics simulation, and explore WAM, VLA, and agent harness for robots.
 
 <h1 id="news" class="home-section-title">🔥 News</h1>
 
@@ -34,9 +34,10 @@ My research spans **physics-based world modeling** and **embodied intelligence**
     </a>
   </div>
   <div class="paper-box-text" markdown="1">
-<p class="report-title"><strong>InternW0-Δ: An Embodied World Model Bridging Predictive Dynamics and Actions</strong></p>
+<p class="report-title"><strong>InternW0-Δ: A World Action Model Bridging Predictive Dynamics
+and Actions with 20K+ Hours of Open Data</strong></p>
 
-<p class="report-team">InternRobotics</p>
+<p class="report-team">InternRobotics · Contributed to post-training</p>
 
 \[[Blog](https://internrobotics.github.io/InternW0-Delta/)\]&nbsp;
 \[[Paper](https://arxiv.org/abs/2609.31394)\]&nbsp;
@@ -176,7 +177,7 @@ EMNLP 2023 main conference paper
 
 <div class="home-compact-list" markdown="1">
 
-+ **Reviewer:** ICML 2026, AAAI 2027.
++ **Reviewer:** ICML 2026, AAAI 2027, ICLR 2027.
 
 </div>
 

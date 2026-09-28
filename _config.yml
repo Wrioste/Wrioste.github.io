@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Beijing, China"
-title                    : "Mu Huang‘s Home Page"
+title                    : "Mu Huang‘s HomePage"
 title_separator          : "-"
 name                     : &name "Mu Huang"
 description              : &description "PhD at FDU"
