@@ -37,7 +37,7 @@ My research spans **physics-based world modeling** and **embodied intelligence**
 <p class="report-title"><strong>InternW0-Δ: A World Action Model Bridging Predictive Dynamics
 and Actions with 20K+ Hours of Open Data</strong></p>
 
-<p class="report-team">InternRobotics · Contributed to post-training</p>
+<p class="report-team">Physical Intelligence Team · Contributed to post-training</p>
 
 \[[Blog](https://internrobotics.github.io/InternW0-Delta/)\]&nbsp;
 \[[Paper](https://arxiv.org/abs/2609.31394)\]&nbsp;
