@@ -17,11 +17,12 @@ My research spans **physics-based world modeling** and **embodied intelligence**
 
 <div class="home-news" markdown="1">
 
-+ *2026.09:* 🎉 We released **InternW0-Δ**, a world-action model combining causal imprint with 4D-aware representation.
++ *2026.09:* 🎉 We released [**InternW0-Δ**](https://internrobotics.github.io/InternW0-Delta/), a world-action model combining causal imprint with 4D-aware representation.
++ *2026.09:* 🎉 **GeoVerse** was released. A framework for world-consistent novel view synthesis in geometric latent space.
 + *2026.05:* 🎉 **SoMA** was accepted to ICML 2026. We build a physically grounded world simulator for robotic soft-body manipulation.
 + *2025.09:* 🎉 **Reversible GNS** was released on arXiv. We study reversible graph simulators for consistent bidirectional modeling of dissipative fluids.
 + *2025.06:* 🎉 **GausSim** was accepted to ICCV 2025. We explore Gaussian-based simulation for forecasting elastic object dynamics.
-+ *2023.10:* 🎉 **PLSE** was accepted to EMNLP 2023 as an oral presentation. We enhance discourse relation recognition with prompt-based logical semantics.
++ *2023.10:* 🎉 **PLSE** was accepted to EMNLP 2023 (*Oral*). We enhance discourse relation recognition with prompt-based logical semantics.
 
 </div>
 
@@ -55,6 +56,34 @@ and Actions with 20K+ Hours of Open Data</strong></p>
 </div>
 
 <h1 id="publications" class="home-section-title home-section-title--works">📝 Research Papers</h1>
+
+<!-- GeoVerse -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2026</div><img src='./images/teaser_page/geoverse_teaser.png' alt="GeoVerse spatial memory expanding from two input views through successive rounds of novel view synthesis" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space**
+
+[Kerui Ren](https://cskrren.github.io/),
+[Tao Lu](https://inspirelt.github.io/),
+[Linning Xu](https://eveneveno.github.io/lnxu/),
+[Changjian Jiang](https://scholar.google.com/citations?user=V4miywEAAAAJ&hl=zh-CN),
+**Mu Huang**,
+[Chunhua Shen](https://cshen.github.io/),
+[Mulin Yu<sup>†</sup>](https://mulinyu.github.io/),
+[Bo Dai<sup>†</sup>](https://daibo.info/)
+
+\[[Paper](https://arxiv.org/abs/2609.35734)\]&nbsp;
+\[[Project Page](https://geoverse-nvs.github.io/)\]&nbsp;
+\[[Code](https://github.com/geoverse-nvs/GeoVerse)\]
+{: .paper-links}
+
+<div class="paper-tldr" markdown="1">
++ GeoVerse synthesizes world-consistent novel views from sparse images by combining geometric latent diffusion, video generative priors, and persistent spatial memory.
+</div>
+
+</div>
+</div>
+<!-- GeoVerse -->
 
 <!-- SoMA -->
 
